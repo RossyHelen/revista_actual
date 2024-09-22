@@ -1,0 +1,45 @@
+body{
+ background-image: url(251009.jpg);
+ background-position: center center;
+ background-color: #1d0512;
+}
+ div.reg {
+    width: 50%;
+    margin: auto;
+    background-color: #58097080;
+    color: #ec1cbf;
+    padding: 15px;
+
+ }
+ div.reg {
+    float:none;
+    margin-block: 8% ;
+  }
+.button
+  {
+      display: inline-block;
+      margin-top: 1.5em;
+      padding: 1em 3em 1em 3em;
+      background: #FF1493;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-weight: 300;
+      font-size: 0.90em;
+      color: #FFF;
+  }
+.caja{
+    width: 55%; 
+    height: 6%; 
+    border-color:  #ce112d8a; 
+    border-radius: 5px;
+    font-size:20px; 
+
+   }
+.cajat{
+    width: 75%; 
+    height: 40%; 
+    border-color:  #ce112d8a; 
+    border-radius: 5px;
+    font-size:20px; 
+
+   }
